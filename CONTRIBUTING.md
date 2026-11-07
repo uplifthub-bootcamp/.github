@@ -4,10 +4,10 @@ SecAware is a training project. The instructor builds most of it in the open, an
 
 ## Take an issue
 
-1. Pick an issue whose **Needs** are already merged, and assign yourself.
+1. Open the [project board](https://github.com/orgs/uplifthub-bootcamp/projects/1) and go to **Up next**. It lists every step in build order. Take the first one in your track that isn't blocked, and assign yourself.
 2. Create a branch from `main`, named after the issue, such as `api-05-register`.
 3. Open a draft pull request within 2 working days, even if the work is unfinished.
-4. Tick every acceptance criterion yourself, then mark the pull request ready.
+4. Tick every acceptance criterion yourself, mark the pull request ready, and move the step to **In Review**.
 5. If another student is available, ask them to follow the issue's steps and report what happened.
 6. The instructor reviews the code and merges it.
 
