@@ -1,5 +1,5 @@
 # Contributors
 
 - Abubakar Ango, instructor
- - Ahmed Yusuf (backend). 
+- Ahmed Yusuf (backend)
 - Emmanuel Paul (devops)
